@@ -1,4 +1,4 @@
-<h1 align="left">Hi there 👋, I'm Diana Suarez</h1>
+<h1 align="left">👋, I'm Diana Suarez</h1>
 
 ###
 
