@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🌱 Creating bugs since Diciembre 2024<br> 📚  I'm currently applying new knowledge and approaches to projects already carried out.<br>🎯 Goals: Create innovative applications that integrate modern technologies and provide complete and efficient solutions.<br>🎓 Full Stack Developer in 4Geeks Academy
+<p align="left">📚  I'm currently applying new knowledge and approaches to projects already carried out🌱<br>🎯 Goals: Create innovative applications that integrate modern technologies and provide complete and efficient solutions.<br>🎓 Full Stack Developer in 4Geeks Academy
 </p>
 
 ###
